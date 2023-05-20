@@ -1,0 +1,149 @@
+CAMILO NICOLAS
+
+CEA CARVAJAL
+
+LICENCIADO EN
+
+CARTÓGRAFIA Y GEOMÁTICA
+
+Firma
+PERFIL PERSONAL
+
+Soy un profesional con gran pasión por la
+innovación en el análisis de datos espaciales, me
+gusta aprender e idear nuevas maneras de
+utilizar la información geográfica. Donde los
+usuarios de la información geoespacial puedan
+comunicarse con el territorio de maneras más
+accesible y entendiendo el contexto de que se
+quiere mostrar
+
+FORTALEZAS PRINCIPALES
+- Habilidades de resolución de problemas
+
+- Mentalidad resolutiva
+
+-Dialogo interpersonal profesional
+
+-Capacidad de automatización de procesos
+
+NIVEL DE DOMINIO DE
+HABILIDADES TECNICAS
+
+Python 3
+
+Arduino €
+Google Engine
+QGIS 3
+
+AWS cloud
+Javascrip
+Linux
+
+R
+
+PYQGIS
+
+Visual basic
+
+INFORMACIÓN DE CONTACTO
+
+Celular: (+569)-48575902
+
+Correo electrónico: camilo.ceacQutem.cl
+DM Sitio web: camiloceacarvajal (camilo Cea
+C(github.com)
+
+Dirección: Los Nardos , 314 ,San Bernardo
+Region Metropolitana , Provincia Maipo
+
+Referencia de habilidades y académicas
+Alvaro Medina Aravena (+ 56 9 31991109)
+- Geógrafo U de Chile
+
+Adrián Morgado Flores (amorgado(Qued.cl )
+- Cartografo UTEM
+
+Do
+
+EXPERIENCIA LABORAL
+
+FONDO DE DESARROLLO INSTITUCIONAL LÍNEA
+EMPRENDIMIENTO ESTUDIANTIL (FONDO ADJUDICADO)
+
+Programador en Python y asistente técnico en proyecto de sistema de información
+geográfico para la gestión arbórea -(junio -2018-diciembre -2019)
+
+FONDO DEL PATRIMONIO CULTURAL - CONCURSO REGIONAL,
+LINEA PROMOCIÓN DELPATRIMONIO CULTURAL
+
+Proyecto “la ciudad higiénica en siglo xxi: mapeo colectivo y resignificación de una ruta
+patrimonial” 2021-2022
+
+Elaborador de información base entrega de material y información al área gráfica
+Tallerista de los talleres de cartografía social y guía de la ruta propuesta
+
+CONSULTOR FREELANCE DE CARTOGRAFÍA
+Elaboración de cartografía base y foto interpretación para greenglo
+consultores julio-octubre 2021
+
+Practica profesional en Envis Spa 2022
+Dar soporte a la automatización del proceso de consulta de información ambiental
+
+vectorial asociada a proyectos de inversión que se someten al Sistema de Evaluación
+de Impacto Ambiental (SETA) utilizando Python y macros de Visual Basic en Excel
+
+Especialista en Envis Spa 2022 marzo-julio
+
+Asistente de tecnologías de información geográficas para toma de datos en terreno ,
+encargado de la capacitación a personal en terreno y búsqueda de automatización de
+procesos con Python en el sistema de información geográfica OGIS y Visual Basic
+
+Amalista de datos de negocio y clientes Chevy -2022-01-04
+Encargado de la limpieza de datos y visualización de la información de ventas y
+localización de clientes usando Python y excel
+
+OJO ALMEDIO 2022 -(FONDO ADJUDICADO 2021)
+Fondo Regional Metropolitano 6% :
+
+Proyecto sensorizate! : hacia un barrio respirable - analista de datos y
+modelador de datos de contaminación utilizando Python y gestor de tecnologías
+BIM
+
+Desarrollador en Python Freelance 2022 actualidad
+
+Elaboración de geoprocesos y automatización por medio de la programación
+para consultoras y empresas del ámbito geográfico
+
+Charlista en programación
+
+Exposición en analytics python santiago sobre python orientado a al área
+geoespacial y visualización de datos (2 de junio 2021)
+
+HISTORIAL ACADÉMICO
+
+UNIVERSIDAD TECNOLÓGICA METROPOLITANA (2016-2022)
+Licenciatura en Cartografía y Geométrica
+
+proyectos de investigación académicos :
+
+- Investigador de un sistema gis para catastro arbóreo cementerio general(2018)
+-Investigador de proyecto de sitios arqueológicos cerro Chena (2017)
+
+- Tallerista de programación en Python orientado a la cartografia UTEM
+
+VII ESCUELA DE TEMPORADA U de Chile 2021.
+
+Consultor de plataforma de información geográfica, para la realización de
+talleresde cartografía social en la asamblea ciudadana.
+
+PERFECCIONAMIENTO PROFESIONAL:
+
+1. Curso programación OGIS 3 con Python-escuela técnica superior de ingenieros
+en topografía, geodesia y cartografía upm. calle mercator, 2. Madrid.
+
+2. Curso de programación en Python 3 - uc Católica de Chile
+
+3. Curso de estadística descriptiva en python 3-udemy
+
+4. Curso básico de programcion en PYOGIS en OGIS 3- udemy
